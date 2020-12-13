@@ -1,0 +1,41 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "mariage",
+    "description": "",
+    "home_page_url": "https://maria.ophir.dev",
+    "feed_url": "https://maria.ophir.dev/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Maria &amp; Ophir"
+    },
+    "items": [
+        {
+            "id": "https://maria.ophir.dev/cadeaux.html",
+            "url": "https://maria.ophir.dev/cadeaux.html",
+            "title": "Cadeaux",
+            "summary": "Liste de cadeauxUn beau voyageUn permis pour Ophir",
+            "content_html": "<p>Liste de cadeaux</p>\n<ul>\n<li>Un beau voyage</li>\n<li>Un permis pour Ophir</li>\n</ul>",
+            "author": {
+                "name": "Maria &amp; Ophir"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-12-13T20:00:18+01:00",
+            "date_modified": "2020-12-13T20:00:18+01:00"
+        },
+        {
+            "id": "https://maria.ophir.dev/mariage.html",
+            "url": "https://maria.ophir.dev/mariage.html",
+            "title": "Mariage",
+            "summary": "Bienvenue sur le site de mariage de Macha et Ophir",
+            "content_html": "<p>Bienvenue sur le site de mariage de Macha et Ophir</p>",
+            "author": {
+                "name": "Maria &amp; Ophir"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-12-13T19:28:33+01:00",
+            "date_modified": "2020-12-13T19:59:40+01:00"
+        }
+    ]
+}
