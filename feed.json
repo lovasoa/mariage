@@ -10,22 +10,22 @@
     },
     "items": [
         {
-            "id": "https://maria.ophir.dev/informations-pratiques.html",
-            "url": "https://maria.ophir.dev/informations-pratiques.html",
+            "id": "https://maria.ophir.dev/informations-pratiques/",
+            "url": "https://maria.ophir.dev/informations-pratiques/",
             "title": "Informations pratiques",
-            "summary": "Le mariage aura lieu au château de Denonville Place du Château, 28700 Denonville FRANCE Afficher la carte",
-            "content_html": "<p>Le mariage aura lieu au château de Denonville</p>\n<pre>    Place du Château,\n    28700 Denonville\n    FRANCE\n  </pre>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"425\" height=\"350\" style=\"border: 1px solid black;\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" src=\"https://www.openstreetmap.org/export/embed.html?bbox=0.09613037109375001%2C47.57281986733871%2C3.5238647460937504%2C49.1888842152458&amp;layer=mapnik&amp;marker=48.387266208071274%2C1.80999755859375\"></iframe></div><br><small><a href=\"https://www.openstreetmap.org/?mlat=48.3873&amp;mlon=1.8100#map=9/48.3873/1.8100\">Afficher la carte</a></small></p>",
+            "summary": "Le mariage aura lieu au château de Denonville Place du Château,28700 DenonvilleFRANCE Afficher la carte sur Google Maps",
+            "content_html": "<p>Le mariage aura lieu au château de Denonville</p>\n<pre>Place du Château,\n28700 Denonville\nFRANCE</pre>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"425\" height=\"350\" style=\"border: 1px solid black;\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" src=\"https://www.openstreetmap.org/export/embed.html?bbox=0.09613037109375001%2C47.57281986733871%2C3.5238647460937504%2C49.1888842152458&amp;layer=mapnik&amp;marker=48.39172%2C1.80936\"></iframe></div><br><small><a href=\"https://www.google.fr/maps/place/Ch%C3%A2teau+de+Denonville/@48.8386223,1.9739536,9z/data=!4m8!3m7!1s0x0:0xde707f242078b627!5m2!4m1!1i2!8m2!3d48.3917801!4d1.8104167\">Afficher la carte sur Google Maps</a></small></p>",
             "author": {
                 "name": "Maria &amp; Ophir"
             },
             "tags": [
             ],
             "date_published": "2020-12-13T20:31:48+01:00",
-            "date_modified": "2020-12-13T20:39:22+01:00"
+            "date_modified": "2020-12-13T20:50:02+01:00"
         },
         {
-            "id": "https://maria.ophir.dev/cadeaux.html",
-            "url": "https://maria.ophir.dev/cadeaux.html",
+            "id": "https://maria.ophir.dev/cadeaux/",
+            "url": "https://maria.ophir.dev/cadeaux/",
             "title": "Cadeaux",
             "summary": "Liste de cadeauxUn beau voyageUn permis pour Ophir",
             "content_html": "<p>Liste de cadeaux</p>\n<ul>\n<li>Un beau voyage</li>\n<li>Un permis pour Ophir</li>\n</ul>",
@@ -38,8 +38,8 @@
             "date_modified": "2020-12-13T20:00:18+01:00"
         },
         {
-            "id": "https://maria.ophir.dev/mariage.html",
-            "url": "https://maria.ophir.dev/mariage.html",
+            "id": "https://maria.ophir.dev/mariage/",
+            "url": "https://maria.ophir.dev/mariage/",
             "title": "Mariage",
             "summary": "Bienvenue sur le site de mariage de Macha et Ophir",
             "content_html": "<p>Bienvenue sur le site de mariage de Macha et Ophir</p>",
