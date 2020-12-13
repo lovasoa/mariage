@@ -3,7 +3,7 @@
     <title>mariage</title>
     <link href="https://maria.ophir.dev/feed.xml" rel="self" />
     <link href="https://maria.ophir.dev" />
-    <updated>2020-12-13T20:50:02+01:00</updated>
+    <updated>2020-12-13T21:34:26+01:00</updated>
     <author>
         <name>Maria &amp; Ophir</name>
     </author>
@@ -17,17 +17,21 @@
         <link href="https://maria.ophir.dev/informations-pratiques/"/>
         <id>https://maria.ophir.dev/informations-pratiques/</id>
 
-        <updated>2020-12-13T20:50:02+01:00</updated>
+        <updated>2020-12-13T21:34:26+01:00</updated>
             <summary>
                 <![CDATA[
-                    Le mariage aura lieu au château de Denonville Place du Château,28700 DenonvilleFRANCE Afficher la carte sur Google Maps
+                    Le mariage aura lieu le 24 avril 2021 au château de Denonville. Vous êtes les bienvenus au château à partir de 14:30. Ajouter l’événement à Google Calendar. Place du Château, 28700 Denonville FRANCE Afficher la carte sur Google Maps
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Le mariage aura lieu au château de Denonville</p>
-<pre>Place du Château,
-28700 Denonville
+                <p>Le mariage aura lieu le 24 avril 2021 au château de Denonville.</p>
+<h2>Heure d'arrivée</h2>
+<p>Vous êtes les bienvenus au château à partir de 14:30.</p>
+<p><a href="https://calendar.google.com/calendar/r/eventedit?text=Mariage Ophir et Macha&amp;dates=20200424T140000Z/20200425T030000Z&amp;details=Mariage de Macha et Ophir&amp;location=Château de Denonville, Place du Château, 28700 Denonville FRANCE">Ajouter l’événement à Google Calendar</a>.</p>
+<h2>Lieu</h2>
+<pre>Place du Château, 
+28700 Denonville 
 FRANCE</pre>
 <div class="post__iframe"><iframe loading="lazy" width="425" height="350" style="border: 1px solid black;" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=0.09613037109375001%2C47.57281986733871%2C3.5238647460937504%2C49.1888842152458&amp;layer=mapnik&amp;marker=48.39172%2C1.80936"></iframe></div><br><small><a href="https://www.google.fr/maps/place/Ch%C3%A2teau+de+Denonville/@48.8386223,1.9739536,9z/data=!4m8!3m7!1s0x0:0xde707f242078b627!5m2!4m1!1i2!8m2!3d48.3917801!4d1.8104167">Afficher la carte sur Google Maps</a></small></p>
             ]]>
@@ -58,22 +62,29 @@ FRANCE</pre>
         </content>
     </entry>
     <entry>
-        <title>Mariage</title>
+        <title>Mariage de Maria et Ophir</title>
         <author>
             <name>Maria &amp; Ophir</name>
         </author>
         <link href="https://maria.ophir.dev/mariage/"/>
         <id>https://maria.ophir.dev/mariage/</id>
 
-        <updated>2020-12-13T19:59:40+01:00</updated>
+        <updated>2020-12-13T21:24:22+01:00</updated>
             <summary>
                 <![CDATA[
-                    Bienvenue sur le site de mariage de Macha et Ophir
+                        <img src="https://maria.ophir.dev/media/posts/1/Love_padlocks_on_the_Butchers_Bridge_Ljubljana.jpg" alt="" />
+                    Bienvenue sur le site de mariage de Macha et Ophir. Vous trouverez iciLes informations pratiques dont vous aurez besoin pour vous rendre au mariage.Une page destinée aux cadeaux de mariage.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Bienvenue sur le site de mariage de Macha et Ophir</p>
+                    <img src="https://maria.ophir.dev/media/posts/1/Love_padlocks_on_the_Butchers_Bridge_Ljubljana.jpg" alt="" />
+                <p>Bienvenue sur le site de mariage de Macha et Ophir.</p>
+<p>Vous trouverez ici</p>
+<ul>
+<li>Les <a href="https://maria.ophir.dev/informations-pratiques/" title="Informations pratiques: date, lieu, comment venir, etc...">informations pratiques</a> dont vous aurez besoin pour vous rendre au mariage.</li>
+<li>Une page destinée aux <a href="https://maria.ophir.dev/cadeaux/">cadeaux de mariage</a>.</li>
+</ul>
             ]]>
         </content>
     </entry>
