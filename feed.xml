@@ -3,12 +3,37 @@
     <title>mariage</title>
     <link href="https://maria.ophir.dev/feed.xml" rel="self" />
     <link href="https://maria.ophir.dev" />
-    <updated>2020-12-13T20:00:18+01:00</updated>
+    <updated>2020-12-13T20:38:34+01:00</updated>
     <author>
         <name>Maria &amp; Ophir</name>
     </author>
     <id>https://maria.ophir.dev</id>
 
+    <entry>
+        <title>Informations pratiques</title>
+        <author>
+            <name>Maria &amp; Ophir</name>
+        </author>
+        <link href="https://maria.ophir.dev/informations-pratiques.html"/>
+        <id>https://maria.ophir.dev/informations-pratiques.html</id>
+
+        <updated>2020-12-13T20:38:34+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Le mariage aura lieu au château de Denonville Place du Château, 28700 Denonville FRANCE Afficher la carte
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Le mariage aura lieu au château de Denonville</p>
+<pre>    Place du Château,
+    28700 Denonville
+    FRANCE
+  </pre>
+<div class="post__iframe"><iframe loading="lazy" width="425" height="350" style="border: 1px solid black;" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=0.09613037109375001%2C47.57281986733871%2C3.5238647460937504%2C49.1888842152458&amp;layer=mapnik&amp;marker=48.387266208071274%2C1.80999755859375"></iframe></div><br><small><a href="https://www.openstreetmap.org/?mlat=48.3873&amp;mlon=1.8100#map=9/48.3873/1.8100">Afficher la carte</a></small></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Cadeaux</title>
         <author>

@@ -1,3 +1,2 @@
 User-agent: *
-Disallow:
-Sitemap: https://maria.ophir.dev/sitemap.xml
+Disallow: /

@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://maria.ophir.dev/informations-pratiques.html",
+            "url": "https://maria.ophir.dev/informations-pratiques.html",
+            "title": "Informations pratiques",
+            "summary": "Le mariage aura lieu au château de Denonville Place du Château, 28700 Denonville FRANCE Afficher la carte",
+            "content_html": "<p>Le mariage aura lieu au château de Denonville</p>\n<pre>    Place du Château,\n    28700 Denonville\n    FRANCE\n  </pre>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"425\" height=\"350\" style=\"border: 1px solid black;\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" src=\"https://www.openstreetmap.org/export/embed.html?bbox=0.09613037109375001%2C47.57281986733871%2C3.5238647460937504%2C49.1888842152458&amp;layer=mapnik&amp;marker=48.387266208071274%2C1.80999755859375\"></iframe></div><br><small><a href=\"https://www.openstreetmap.org/?mlat=48.3873&amp;mlon=1.8100#map=9/48.3873/1.8100\">Afficher la carte</a></small></p>",
+            "author": {
+                "name": "Maria &amp; Ophir"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-12-13T20:31:48+01:00",
+            "date_modified": "2020-12-13T20:38:34+01:00"
+        },
+        {
             "id": "https://maria.ophir.dev/cadeaux.html",
             "url": "https://maria.ophir.dev/cadeaux.html",
             "title": "Cadeaux",
