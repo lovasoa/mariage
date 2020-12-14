@@ -3,7 +3,7 @@
     <title>mariage</title>
     <link href="https://maria.ophir.dev/feed.xml" rel="self" />
     <link href="https://maria.ophir.dev" />
-    <updated>2020-12-13T23:55:55+01:00</updated>
+    <updated>2020-12-14T01:09:13+01:00</updated>
     <author>
         <name>Maria &amp; Ophir</name>
     </author>
@@ -17,14 +17,16 @@
         <link href="https://maria.ophir.dev/informations-pratiques/"/>
         <id>https://maria.ophir.dev/informations-pratiques/</id>
 
-        <updated>2020-12-13T23:55:06+01:00</updated>
+        <updated>2020-12-14T01:07:17+01:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://maria.ophir.dev/media/posts/3/Dizayn-bez-nazvaniya.png" alt="" />
                     Le mariage aura lieu le 24 avril 2021 au château de Denonville. Vous êtes les bienvenus au château à partir de 14:30. Ajouter l’événement à Google Calendar. Place du Château, 28700 Denonville FRANCE Afficher la carte sur Google Maps
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://maria.ophir.dev/media/posts/3/Dizayn-bez-nazvaniya.png" alt="" />
                 <p>Le mariage aura lieu le 24 avril 2021 au château de Denonville.</p>
 <h2>Heure d'arrivée</h2>
 <p>Vous êtes les bienvenus au château à partir de 14:30.</p>
@@ -45,14 +47,16 @@ FRANCE</pre>
         <link href="https://maria.ophir.dev/cadeaux/"/>
         <id>https://maria.ophir.dev/cadeaux/</id>
 
-        <updated>2020-12-13T20:00:18+01:00</updated>
+        <updated>2020-12-14T01:09:13+01:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://maria.ophir.dev/media/posts/2/espresso-soaked-lady-fingers-layered-with-a-sweet-eam.png" alt="" />
                     Liste de cadeauxUn beau voyageUn permis pour Ophir
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://maria.ophir.dev/media/posts/2/espresso-soaked-lady-fingers-layered-with-a-sweet-eam.png" alt="" />
                 <p>Liste de cadeaux</p>
 <ul>
 <li>Un beau voyage</li>
