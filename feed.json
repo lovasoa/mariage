@@ -5,7 +5,7 @@
     "home_page_url": "https://maria.ophir.dev",
     "feed_url": "https://maria.ophir.dev/feed.json",
     "user_comment": "",
-    "icon": "https://maria.ophir.dev/media/website/lovelogo.png",
+    "icon": "https://maria.ophir.dev/media/website/Dizayn-bez-nazvaniya1.png",
     "author": {
         "name": "Maria &amp; Ophir"
     },
@@ -22,7 +22,7 @@
             "tags": [
             ],
             "date_published": "2020-12-13T20:31:48+01:00",
-            "date_modified": "2020-12-13T21:34:26+01:00"
+            "date_modified": "2020-12-13T23:55:06+01:00"
         },
         {
             "id": "https://maria.ophir.dev/cadeaux/",
@@ -44,14 +44,13 @@
             "title": "Mariage de Maria et Ophir",
             "summary": "Bienvenue sur le site de mariage de Macha et Ophir. Vous trouverez iciLes informations pratiques dont vous aurez besoin pour vous rendre au mariage.Une page destinée aux cadeaux de mariage.",
             "content_html": "<p>Bienvenue sur le site de mariage de Macha et Ophir.</p>\n<p>Vous trouverez ici</p>\n<ul>\n<li>Les <a href=\"https://maria.ophir.dev/informations-pratiques/\" title=\"Informations pratiques: date, lieu, comment venir, etc...\">informations pratiques</a> dont vous aurez besoin pour vous rendre au mariage.</li>\n<li>Une page destinée aux <a href=\"https://maria.ophir.dev/cadeaux/\">cadeaux de mariage</a>.</li>\n</ul>",
-            "image": "https://maria.ophir.dev/media/posts/1/Love_padlocks_on_the_Butchers_Bridge_Ljubljana.jpg",
             "author": {
                 "name": "Maria &amp; Ophir"
             },
             "tags": [
             ],
             "date_published": "2020-12-13T19:28:33+01:00",
-            "date_modified": "2020-12-13T21:24:22+01:00"
+            "date_modified": "2020-12-13T23:55:55+01:00"
         }
     ]
 }
