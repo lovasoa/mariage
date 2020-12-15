@@ -11,11 +11,26 @@
     },
     "items": [
         {
+            "id": "https://maria.ophir.dev/covid-19/",
+            "url": "https://maria.ophir.dev/covid-19/",
+            "title": "COVID - 19 !",
+            "summary": "En raison de la situation sanitaire nous vous demandons de noter que la célébration de notre mariage franco-russe est maintenue jusqu'à présent, mais toutefois peut être annulé à tout moment. Les frontières restent fermées et si la situation actuelle n'évolue pas d'ici quelques mois, nous&hellip;",
+            "content_html": "<p>En raison de la situation sanitaire nous vous demandons de noter que la célébration de notre mariage franco-russe est maintenue jusqu'à présent, mais toutefois peut être annulé à tout moment. </p>\n<p>Les frontières restent fermées et si la situation actuelle n'évolue pas d'ici quelques mois, nous serons obligés de réporter notre fête pour une autre date. Nous allons vous tenir au courant et espérer que vous allez pouvoir nous réjoindre le 23 avril pour partager notre bonheur et célébrer notre mariage avec nous ! </p>\n<p>L'enregistrement de notre mariage à la mairie reste également maintenu dans la limite de <a href=\"#INTERNAL_LINK#/post/null\" title=\"https://www.paris.fr/pages/les-mariages-et-les-pacs-de-nouveau-celebres-dans-les-mairies-7858\">6 personnes maximum </a>hors les mariés et les témoins. </p>",
+            "image": "https://maria.ophir.dev/media/posts/4/espresso-soaked-lady-fingers-layered-with-a-sweet-eam3.png",
+            "author": {
+                "name": "Maria &amp; Ophir"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-12-14T16:02:07+01:00",
+            "date_modified": "2020-12-15T23:21:22+01:00"
+        },
+        {
             "id": "https://maria.ophir.dev/informations-pratiques/",
             "url": "https://maria.ophir.dev/informations-pratiques/",
             "title": "Informations pratiques",
-            "summary": "Le mariage aura lieu le 24 avril 2021 au château de Denonville. Vous êtes les bienvenus au château à partir de 14:30. Ajouter l’événement à Google Calendar. Place du Château, 28700 Denonville FRANCE Afficher la carte sur Google Maps",
-            "content_html": "<p>Le mariage aura lieu le 24 avril 2021 au château de Denonville.</p>\n<h2>Heure d'arrivée</h2>\n<p>Vous êtes les bienvenus au château à partir de 14:30.</p>\n<p><a href=\"https://calendar.google.com/calendar/r/eventedit?text=Mariage Ophir et Macha&amp;dates=20200424T140000Z/20200425T030000Z&amp;details=Mariage de Macha et Ophir&amp;location=Château de Denonville, Place du Château, 28700 Denonville FRANCE\">Ajouter l’événement à Google Calendar</a>.</p>\n<h2>Lieu</h2>\n<pre>Place du Château, \n28700 Denonville \nFRANCE</pre>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"425\" height=\"350\" style=\"border: 1px solid black;\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" src=\"https://www.openstreetmap.org/export/embed.html?bbox=0.09613037109375001%2C47.57281986733871%2C3.5238647460937504%2C49.1888842152458&amp;layer=mapnik&amp;marker=48.39172%2C1.80936\"></iframe></div><br><small><a href=\"https://www.google.fr/maps/place/Ch%C3%A2teau+de+Denonville/@48.8386223,1.9739536,9z/data=!4m8!3m7!1s0x0:0xde707f242078b627!5m2!4m1!1i2!8m2!3d48.3917801!4d1.8104167\">Afficher la carte sur Google Maps</a></small></p>",
+            "summary": "Le mariage aura lieu le 23 avril à 15 h à la mairie du 3ème arrondisement de Paris, 2 Rue Eugène Spuller, 75003 Paris. Compte tenu la situation sanitaire, seulement les mariés, les 4 témoignes et les 6 autres personnes peuvent être présentes lors de&hellip;",
+            "content_html": "<p>Le mariage aura lieu le 23 avril à 15 h à la mairie du 3ème arrondisement de Paris, <span class=\"LrzXr\">2 Rue Eugène Spuller, 75003 Paris. </span></p>\n<p><span class=\"LrzXr\">Compte tenu la situation sanitaire, seulement les mariés, les 4 témoignes et les 6 autres personnes peuvent être présentes lors de l'enregistrement du mariage à la mairie. </span></p>\n<p class=\"align-center\">La célébration du mariage aura lieu le lendemain, <span style=\"color: #bf64a4;\"><strong>le 24 avril 2021</strong></span> au château de Denonville.</p>\n<h2>Heure d'arrivée</h2>\n<p>Vous êtes les bienvenus au château à partir de 14:30.</p>\n<p><a href=\"https://calendar.google.com/calendar/r/eventedit?text=Mariage Ophir et Macha&amp;dates=20200424T140000Z/20200425T030000Z&amp;details=Mariage de Macha et Ophir&amp;location=Château de Denonville, Place du Château, 28700 Denonville FRANCE\">Ajouter l’événement à Google Calendar</a>.</p>\n<h2>Lieu</h2>\n<pre>Place du Château, \n28700 Denonville \nFRANCE</pre>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"425\" height=\"350\" style=\"border: 1px solid black;\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" src=\"https://www.openstreetmap.org/export/embed.html?bbox=0.09613037109375001%2C47.57281986733871%2C3.5238647460937504%2C49.1888842152458&amp;layer=mapnik&amp;marker=48.39172%2C1.80936\"></iframe></div><br><small><a href=\"https://www.google.fr/maps/place/Ch%C3%A2teau+de+Denonville/@48.8386223,1.9739536,9z/data=!4m8!3m7!1s0x0:0xde707f242078b627!5m2!4m1!1i2!8m2!3d48.3917801!4d1.8104167\">Afficher la carte sur Google Maps</a></small></p>",
             "image": "https://maria.ophir.dev/media/posts/3/Dizayn-bez-nazvaniya.png",
             "author": {
                 "name": "Maria &amp; Ophir"
@@ -23,7 +38,7 @@
             "tags": [
             ],
             "date_published": "2020-12-13T20:31:48+01:00",
-            "date_modified": "2020-12-14T01:07:17+01:00"
+            "date_modified": "2020-12-14T16:02:22+01:00"
         },
         {
             "id": "https://maria.ophir.dev/cadeaux/",
@@ -38,21 +53,21 @@
             "tags": [
             ],
             "date_published": "2020-12-13T20:00:18+01:00",
-            "date_modified": "2020-12-14T01:09:13+01:00"
+            "date_modified": "2020-12-14T16:33:15+01:00"
         },
         {
             "id": "https://maria.ophir.dev/mariage/",
             "url": "https://maria.ophir.dev/mariage/",
             "title": "Mariage de Maria et Ophir",
-            "summary": "Bienvenue sur le site de mariage de Macha et Ophir. Vous trouverez iciLes informations pratiques dont vous aurez besoin pour vous rendre au mariage.Une page destinée aux cadeaux de mariage.",
-            "content_html": "<p>Bienvenue sur le site de mariage de Macha et Ophir.</p>\n<p>Vous trouverez ici</p>\n<ul>\n<li>Les <a href=\"https://maria.ophir.dev/informations-pratiques/\" title=\"Informations pratiques: date, lieu, comment venir, etc...\">informations pratiques</a> dont vous aurez besoin pour vous rendre au mariage.</li>\n<li>Une page destinée aux <a href=\"https://maria.ophir.dev/cadeaux/\">cadeaux de mariage</a>.</li>\n</ul>",
+            "summary": "Bienvenue sur le site de mariage de Macha et Ophir. Vous trouverez iciLes informations pratiques dont vous aurez besoin pour vous rendre au mariage.Les informations concernant la situation sanitaire en France. Une page destinée aux cadeaux de mariage.",
+            "content_html": "<p>Bienvenue sur le site de mariage de Macha et Ophir.</p>\n<p>Vous trouverez ici</p>\n<ul>\n<li>Les <a href=\"https://maria.ophir.dev/informations-pratiques/\" title=\"Informations pratiques: date, lieu, comment venir, etc...\">informations pratiques</a> dont vous aurez besoin pour vous rendre au mariage.</li>\n<li>Les informations concernant la situation sanitaire en France. </li>\n<li>Une page destinée aux <a href=\"https://maria.ophir.dev/cadeaux/\">cadeaux de mariage</a>.</li>\n</ul>",
             "author": {
                 "name": "Maria &amp; Ophir"
             },
             "tags": [
             ],
             "date_published": "2020-12-13T19:28:33+01:00",
-            "date_modified": "2020-12-13T23:55:55+01:00"
+            "date_modified": "2020-12-14T16:03:29+01:00"
         }
     ]
 }

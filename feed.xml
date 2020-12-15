@@ -3,12 +3,36 @@
     <title>mariage</title>
     <link href="https://maria.ophir.dev/feed.xml" rel="self" />
     <link href="https://maria.ophir.dev" />
-    <updated>2020-12-14T01:09:13+01:00</updated>
+    <updated>2020-12-15T23:21:22+01:00</updated>
     <author>
         <name>Maria &amp; Ophir</name>
     </author>
     <id>https://maria.ophir.dev</id>
 
+    <entry>
+        <title>COVID - 19 !</title>
+        <author>
+            <name>Maria &amp; Ophir</name>
+        </author>
+        <link href="https://maria.ophir.dev/covid-19/"/>
+        <id>https://maria.ophir.dev/covid-19/</id>
+
+        <updated>2020-12-15T23:21:22+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://maria.ophir.dev/media/posts/4/espresso-soaked-lady-fingers-layered-with-a-sweet-eam3.png" alt="" />
+                    En raison de la situation sanitaire nous vous demandons de noter que la célébration de notre mariage franco-russe est maintenue jusqu'à présent, mais toutefois peut être annulé à tout moment. Les frontières restent fermées et si la situation actuelle n'évolue pas d'ici quelques mois, nous&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://maria.ophir.dev/media/posts/4/espresso-soaked-lady-fingers-layered-with-a-sweet-eam3.png" alt="" />
+                <p>En raison de la situation sanitaire nous vous demandons de noter que la célébration de notre mariage franco-russe est maintenue jusqu'à présent, mais toutefois peut être annulé à tout moment. </p>
+<p>Les frontières restent fermées et si la situation actuelle n'évolue pas d'ici quelques mois, nous serons obligés de réporter notre fête pour une autre date. Nous allons vous tenir au courant et espérer que vous allez pouvoir nous réjoindre le 23 avril pour partager notre bonheur et célébrer notre mariage avec nous ! </p>
+<p>L'enregistrement de notre mariage à la mairie reste également maintenu dans la limite de <a href="#INTERNAL_LINK#/post/null" title="https://www.paris.fr/pages/les-mariages-et-les-pacs-de-nouveau-celebres-dans-les-mairies-7858">6 personnes maximum </a>hors les mariés et les témoins. </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Informations pratiques</title>
         <author>
@@ -17,17 +41,19 @@
         <link href="https://maria.ophir.dev/informations-pratiques/"/>
         <id>https://maria.ophir.dev/informations-pratiques/</id>
 
-        <updated>2020-12-14T01:07:17+01:00</updated>
+        <updated>2020-12-14T16:02:22+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://maria.ophir.dev/media/posts/3/Dizayn-bez-nazvaniya.png" alt="" />
-                    Le mariage aura lieu le 24 avril 2021 au château de Denonville. Vous êtes les bienvenus au château à partir de 14:30. Ajouter l’événement à Google Calendar. Place du Château, 28700 Denonville FRANCE Afficher la carte sur Google Maps
+                    Le mariage aura lieu le 23 avril à 15 h à la mairie du 3ème arrondisement de Paris, 2 Rue Eugène Spuller, 75003 Paris. Compte tenu la situation sanitaire, seulement les mariés, les 4 témoignes et les 6 autres personnes peuvent être présentes lors de&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://maria.ophir.dev/media/posts/3/Dizayn-bez-nazvaniya.png" alt="" />
-                <p>Le mariage aura lieu le 24 avril 2021 au château de Denonville.</p>
+                <p>Le mariage aura lieu le 23 avril à 15 h à la mairie du 3ème arrondisement de Paris, <span class="LrzXr">2 Rue Eugène Spuller, 75003 Paris. </span></p>
+<p><span class="LrzXr">Compte tenu la situation sanitaire, seulement les mariés, les 4 témoignes et les 6 autres personnes peuvent être présentes lors de l'enregistrement du mariage à la mairie. </span></p>
+<p class="align-center">La célébration du mariage aura lieu le lendemain, <span style="color: #bf64a4;"><strong>le 24 avril 2021</strong></span> au château de Denonville.</p>
 <h2>Heure d'arrivée</h2>
 <p>Vous êtes les bienvenus au château à partir de 14:30.</p>
 <p><a href="https://calendar.google.com/calendar/r/eventedit?text=Mariage Ophir et Macha&amp;dates=20200424T140000Z/20200425T030000Z&amp;details=Mariage de Macha et Ophir&amp;location=Château de Denonville, Place du Château, 28700 Denonville FRANCE">Ajouter l’événement à Google Calendar</a>.</p>
@@ -47,7 +73,7 @@ FRANCE</pre>
         <link href="https://maria.ophir.dev/cadeaux/"/>
         <id>https://maria.ophir.dev/cadeaux/</id>
 
-        <updated>2020-12-14T01:09:13+01:00</updated>
+        <updated>2020-12-14T16:33:15+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://maria.ophir.dev/media/posts/2/espresso-soaked-lady-fingers-layered-with-a-sweet-eam.png" alt="" />
@@ -73,10 +99,10 @@ FRANCE</pre>
         <link href="https://maria.ophir.dev/mariage/"/>
         <id>https://maria.ophir.dev/mariage/</id>
 
-        <updated>2020-12-13T23:55:55+01:00</updated>
+        <updated>2020-12-14T16:03:29+01:00</updated>
             <summary>
                 <![CDATA[
-                    Bienvenue sur le site de mariage de Macha et Ophir. Vous trouverez iciLes informations pratiques dont vous aurez besoin pour vous rendre au mariage.Une page destinée aux cadeaux de mariage.
+                    Bienvenue sur le site de mariage de Macha et Ophir. Vous trouverez iciLes informations pratiques dont vous aurez besoin pour vous rendre au mariage.Les informations concernant la situation sanitaire en France. Une page destinée aux cadeaux de mariage.
                 ]]>
             </summary>
         <content type="html">
@@ -85,6 +111,7 @@ FRANCE</pre>
 <p>Vous trouverez ici</p>
 <ul>
 <li>Les <a href="https://maria.ophir.dev/informations-pratiques/" title="Informations pratiques: date, lieu, comment venir, etc...">informations pratiques</a> dont vous aurez besoin pour vous rendre au mariage.</li>
+<li>Les informations concernant la situation sanitaire en France. </li>
 <li>Une page destinée aux <a href="https://maria.ophir.dev/cadeaux/">cadeaux de mariage</a>.</li>
 </ul>
             ]]>
