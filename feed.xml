@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>mariage</title>
+    <title>Maria et Ophir</title>
     <link href="https://maria.ophir.dev/feed.xml" rel="self" />
     <link href="https://maria.ophir.dev" />
-    <updated>2020-12-17T23:21:07+01:00</updated>
+    <updated>2020-12-17T23:28:51+01:00</updated>
     <author>
         <name>Maria &amp; Ophir</name>
     </author>
@@ -41,7 +41,7 @@
         <link href="https://maria.ophir.dev/informations-pratiques/"/>
         <id>https://maria.ophir.dev/informations-pratiques/</id>
 
-        <updated>2020-12-17T23:21:07+01:00</updated>
+        <updated>2020-12-17T23:28:51+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://maria.ophir.dev/media/posts/3/espresso-soaked-lady-fingers-layered-with-a-sweet-eam6.png" alt="" />

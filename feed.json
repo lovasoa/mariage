@@ -1,11 +1,10 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "mariage",
+    "title": "Maria et Ophir",
     "description": "",
     "home_page_url": "https://maria.ophir.dev",
     "feed_url": "https://maria.ophir.dev/feed.json",
     "user_comment": "",
-    "icon": "https://maria.ophir.dev/media/website/logo-site-mariage.png",
     "author": {
         "name": "Maria &amp; Ophir"
     },
@@ -38,7 +37,7 @@
             "tags": [
             ],
             "date_published": "2020-12-13T20:31:48+01:00",
-            "date_modified": "2020-12-17T23:21:07+01:00"
+            "date_modified": "2020-12-17T23:28:51+01:00"
         },
         {
             "id": "https://maria.ophir.dev/cadeaux/",
