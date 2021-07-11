@@ -3,12 +3,34 @@
     <title>Maria et Ophir</title>
     <link href="https://maria.ophir.dev/feed.xml" rel="self" />
     <link href="https://maria.ophir.dev" />
-    <updated>2021-07-11T13:20:35+02:00</updated>
+    <updated>2021-07-11T13:26:33+02:00</updated>
     <author>
         <name>Maria &amp; Ophir</name>
     </author>
     <id>https://maria.ophir.dev</id>
 
+    <entry>
+        <title>Notre cagnotte</title>
+        <author>
+            <name>Maria &amp; Ophir</name>
+        </author>
+        <link href="https://maria.ophir.dev/notre-cagnotte/"/>
+        <id>https://maria.ophir.dev/notre-cagnotte/</id>
+
+        <updated>2021-07-11T13:26:33+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Si vous voulez nous offrir un petit quelque chose, nous avons ouvert une cagnotte. Vous pouvez faire un cadeau de mariage si vous le voulez, mais sous une forme numérique😄 Mercciiiii
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Si vous voulez nous offrir un petit quelque chose, nous avons <a href="https://www.paypal.com/pools/c/8z6mRLO9ny">ouvert une cagnotte</a>.</p>
+<p>Vous pouvez faire un cadeau de mariage si vous le voulez, mais sous une forme numérique😄</p>
+<p>Mercciiiii</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Мой приезд в Париж</title>
         <author>
@@ -252,7 +274,7 @@ FRANCE</pre>
         <link href="https://maria.ophir.dev/mariage/"/>
         <id>https://maria.ophir.dev/mariage/</id>
 
-        <updated>2021-02-24T19:44:52+01:00</updated>
+        <updated>2021-07-11T13:23:17+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://maria.ophir.dev/media/posts/1/espresso-soaked-lady-fingers-layered-with-a-sweet-eam14.png" alt="" />
@@ -279,6 +301,7 @@ FRANCE</pre>
 <h2><span style="color: #bf64a4;">Quelques infos à découvrir</span></h2>
 <ul>
 <li>Les <a href="https://maria.ophir.dev/informations-pratiques/" title="Informations pratiques: date, lieu, comment venir, etc...">informations pratiques</a> dont vous aurez besoin pour vous rendre au mariage.</li>
+<li>🎁Notre cagnotte🎁</li>
 <li>Les <a href="https://maria.ophir.dev/covid-19/">informations concernant la situation sanitaire en France</a>. </li>
 </ul>
             ]]>
